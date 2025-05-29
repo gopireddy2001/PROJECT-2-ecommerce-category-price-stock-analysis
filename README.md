@@ -1,4 +1,3 @@
-# PROJECT-2-ecommerce-category-price-stock-  
 \# E-Commerce Category Price & Stock Analysis  
 This project analyzes real-time e-commerce product data from the FakeStoreAPI (https://fakestoreapi.com/), focusing on product pricing, category distribution, stock insights, and rating trends. It utilizes Python for data extraction and preparation, and Google Looker Studio (formerly Google Data Studio) for compelling visual storytelling.
 
@@ -24,10 +23,8 @@ This project analyzes real-time e-commerce product data from the FakeStoreAPI (h
 
 \#\# Sample Visualizations  
 \#\#\# Product Distribution by Category  
-(Insert a Looker Studio screenshot here)
 
 \#\#\# Price & Rating Analysis  
-(Insert a Looker Studio screenshot here)
 
 \#\# Tools & Technologies Used  
 \- Python: For data extraction and processing  
@@ -38,7 +35,7 @@ This project analyzes real-time e-commerce product data from the FakeStoreAPI (h
 \#\# How to Run This Project  
 1\. Clone this repository:  
    \`\`\`bash  
-   git clone https://github.com/yourusername/ecommerce-category-price-stock-analysis.git
+   git clone [https://github.com/gopireddy2001]/ecommerce-category-price-stock-analysis.git
 
 2. Open Project2\_Ecommerce.ipynb in Jupyter Notebook or Google Colab.
 
